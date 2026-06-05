@@ -16,14 +16,28 @@ To write a Java program that creates a StringBuilder object using a given string
  ```
 /*
 Program to implement a StringBuilder Object Reference in Java
-Developed by: 
-RegisterNumber:  
+Developed by: Praveena M
+RegisterNumber:  212223040153
 */
 ```
 
 ## Sourcecode.java:
 
+```
+import java.util.*;
+public class Main
+{
+    public static void main(String[]args)
+  {
+        Scanner scan = new Scanner(System.in);
+        String name = scan.nextLine();
+        StringTokenizer st = new StringTokenizer(name);
+        System.out.println("Total number of Tokens: "+st.countTokens());
+   }
+}
 
+
+```
 
 
 
@@ -31,6 +45,7 @@ RegisterNumber:
 
 ## OUTPUT:
 
+<img width="846" height="322" alt="image" src="https://github.com/user-attachments/assets/a19ea88e-d448-4a84-9164-f0ca53d80227" />
 
 
 ## RESULT:
