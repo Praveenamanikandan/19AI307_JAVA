@@ -45,7 +45,7 @@ public class Main
 
 ## OUTPUT:
 
-<img width="846" height="322" alt="image" src="https://github.com/user-attachments/assets/a19ea88e-d448-4a84-9164-f0ca53d80227" />
+<img width="846" height="322" alt="image" src="https://github.com/user-attachments/assets/4f121712-eb07-4121-a770-41fa6801d4dd" />
 
 
 ## RESULT:
