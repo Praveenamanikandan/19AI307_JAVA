@@ -31,14 +31,11 @@ To create  a Java program to perform the inheritance concept for employee detail
 /*
 Program to implement a Inheritance using Java
 Developed by: Praveena M
-RegisterNumber:  212223040153
+RegisterNumber: 212223040153
 */
 ```
 
 ## Sourcecode.java:
-
-
-
 ```
 
 import java.util.Scanner;
@@ -77,8 +74,9 @@ public class Main
 
 ## OUTPUT:
 
-
+<img width="518" alt="Image" src="https://github.com/user-attachments/assets/1911eabd-84ed-4cfd-a167-cf18253126c5" />
 
 ## RESULT:
 Thus the Java program to implement the inheritance concept for employee details was  executed successfully.
+
 
